@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : Daffa Muhammad Romero  
+NIU : 456363  
+Sesi : 2 
+Secret String :  cf7fd50c90046de219717ae49f8918413cf8b0b985699d94e7ea792dd50aa13e20230616071353
 
 ## Checklist Responsi
 
